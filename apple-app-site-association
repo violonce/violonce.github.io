@@ -1,14 +1,10 @@
-HTTP/1.1 200 OK
-Server: Apache
-Content-Type: application/pkcs7-mime
-
 {
-    ”app links”: {
+    "applinks": {
         "apps": [],
         "details": [
             {
                 "appID": "5R527329J7.com.citysites.mariupol",
-                "paths": [ ”*”]
+                "paths": [ �/news/�]
             }
         ]
     }
