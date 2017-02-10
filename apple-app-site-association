@@ -1,5 +1,9 @@
+HTTP/1.1 200 OK
+Server: Apache
+Content-Type: application/pkcs7-mime
+
 {
-    "webcredentials": {
+    ”app links”: {
         "apps": [],
         "details": [
             {
